@@ -14,6 +14,8 @@ Ngrok (https://ngrok.com/)
 
 The shopify app is almost the same as https://github.com/Shopify/shopify_app#introduction
 
+--------------------
+
 Installation guide:
 
 Install Heroku and Ngrok
