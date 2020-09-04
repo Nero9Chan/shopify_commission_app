@@ -57,9 +57,12 @@ config.scope = '... , write_script_tags'
 
 6. Then, keep following the youtube tutorial.
 
-7. After finishing the tutorial, go to Heroku -> your app -> settings -> Reveal Config Vars.
-Add SHOPIFY_API_KEY as key, your api key as value.
-Add SHOPIFY_API_SECRET as key, your secret key as value.
+7. After finishing the tutorial, go to Heroku -> your app -> settings -> Reveal Config Vars.  
+Add SHOPIFY_API_KEY as key, your api key as value.  
+Add SHOPIFY_API_SECRET as key, your secret key as value.  
+
+![image](https://github.com/Nero9Chan/shopify_commission_app/blob/master/readme_image/git1.png)  
+![image](https://github.com/Nero9Chan/shopify_commission_app/blob/master/readme_image/git2.png)  
 
 8. Next, import database to Mysql. (Just simply run all sql in mysql "database\shopify.sql")
 
