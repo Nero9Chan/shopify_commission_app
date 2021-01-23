@@ -42,7 +42,7 @@ Follow it until 3:00
 
 After running command "rails generate shopify_app --api_key [YOUR_API_KEY] --secret_key [YOUR_SECRET_KEY]", go to "\shopify_app_with_scripttags\config\initializers\shopify_app.rb" and edit
 
-```
+```js
 ShopifyApp.configure do |config|
   config.scripttags = [
     {event:'onload', src: 'https://my-shopifyapp.herokuapp.com/fancy.js'},
